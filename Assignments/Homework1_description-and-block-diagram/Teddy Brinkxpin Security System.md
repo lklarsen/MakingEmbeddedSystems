@@ -18,7 +18,7 @@ The system will consist of a modified Teddy Ruxpin talking teddy bear. It will b
 
 ![Hardware Block Diagram](https://github.com/lklarsen/MakingEmbeddedSystems/blob/04fa55ebd0a5deb44d31288bf1a8f768db618de7/Assignments/Homework1_description-and-block-diagram/HardwareBlockDiagram.PNG)
 
-![SoftwareBlockDiagram](https://github.com/lklarsen/MakingEmbeddedSystems/blob/04fa55ebd0a5deb44d31288bf1a8f768db618de7/Assignments/Homework1_description-and-block-diagram/SoftwareBlockDiagram.PNG)
+![HierarchyOfControl](https://github.com/lklarsen/MakingEmbeddedSystems/blob/04fa55ebd0a5deb44d31288bf1a8f768db618de7/Assignments/Homework1_description-and-block-diagram/SoftwareBlockDiagram.PNG)
 
-![SoftwareHierarchy](https://github.com/lklarsen/MakingEmbeddedSystems/blob/04fa55ebd0a5deb44d31288bf1a8f768db618de7/Assignments/Homework1_description-and-block-diagram/SoftwareHierarchy.PNG)
+![LayeredView](https://github.com/lklarsen/MakingEmbeddedSystems/blob/04fa55ebd0a5deb44d31288bf1a8f768db618de7/Assignments/Homework1_description-and-block-diagram/SoftwareHierarchy.PNG)
 
