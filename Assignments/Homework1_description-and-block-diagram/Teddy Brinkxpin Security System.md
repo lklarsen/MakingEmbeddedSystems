@@ -10,9 +10,9 @@ The goal of this system is mainly to prank my brother when he stops by to pick u
 
 The system will consist of a modified Teddy Ruxpin talking teddy bear. It will be equipped with a motion detector (new) as input, 2 servo motors (existing); one for the blinking eyes, and one for the moving mouth, and a speaker as the outputs. Initially this will require only a power supply, but future versions could be battery-powered. Using the input from the motion detector, the system will determine whether or not an intrusion has occurred, and if so, the bear will play a pre-recorded audio file while blinking its eyes and moving its mouth.  
 
-![Hardware Block Diagram](C:\GitRepos\Assignments\Homework1_description-and-block-diagram\HardwareBlockDiagram.PNG)
+![Hardware Block Diagram](https://github.com/lklarsen/MakingEmbeddedSystems/blob/04fa55ebd0a5deb44d31288bf1a8f768db618de7/Assignments/Homework1_description-and-block-diagram/HardwareBlockDiagram.PNG)
 
-![SoftwareBlockDiagram](C:\GitRepos\Assignments\Homework1_description-and-block-diagram\SoftwareBlockDiagram.PNG)
+![SoftwareBlockDiagram](https://github.com/lklarsen/MakingEmbeddedSystems/blob/04fa55ebd0a5deb44d31288bf1a8f768db618de7/Assignments/Homework1_description-and-block-diagram/SoftwareBlockDiagram.PNG)
 
-![SoftwareHierarchy](C:\GitRepos\Assignments\Homework1_description-and-block-diagram\SoftwareHierarchy.PNG)
+![SoftwareHierarchy](https://github.com/lklarsen/MakingEmbeddedSystems/blob/04fa55ebd0a5deb44d31288bf1a8f768db618de7/Assignments/Homework1_description-and-block-diagram/SoftwareHierarchy.PNG)
 
