@@ -18,11 +18,11 @@ In main(), if the LED state is '1', the LED (LD2, GPIO pin 5) starts blinking wi
 
 From main.c
 
-![Capture](C:\GitRepos\Assignments\Homework3_blinky\Capture.PNG)
+![Capture](./Capture.PNG)
 
 from gpio.c
 
-![Capture2](C:\GitRepos\Assignments\Homework3_blinky\Capture2.PNG)
+![Capture2](./Capture2.PNG)
 
 
 
